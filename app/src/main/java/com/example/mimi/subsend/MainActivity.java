@@ -22,5 +22,8 @@ public class MainActivity extends AppCompatActivity {
         startActivity(new Intent(MainActivity.this, BoxActivity.class));
     }
 
+    public void gotoChild(View v){
+        startActivity(new Intent(MainActivity.this, ChildActivity.class));
+    }
 
 }

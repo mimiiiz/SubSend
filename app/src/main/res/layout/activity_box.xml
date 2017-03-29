@@ -24,7 +24,7 @@
                 <ImageView
                     android:layout_width="150dp"
                     android:layout_height="100dp"
-                    android:src="@drawable/watermalon" />
+                    android:src="@drawable/xxl" />
                 <LinearLayout
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
@@ -34,13 +34,13 @@
                     android:layout_width="match_parent"
                     android:layout_height="0dp"
                     android:layout_weight="1"
-                    android:text="แตงโม"
+                    android:text="ผ้าอ้อม"
                     android:gravity="center"/>
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="0dp"
                         android:layout_weight="1"
-                        android:text="2 ผล"
+                        android:text="2 แพ็ค"
                         android:gravity="center"/>
                     <TextView
                         android:layout_width="match_parent"
@@ -52,7 +52,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="0dp"
                         android:layout_weight="1"
-                        android:text="เริ่มส่ง 19/1/2016"
+                        android:text="เริ่มส่ง 19/1/2017"
                         android:gravity="center"/>
                 </LinearLayout>
             </LinearLayout>
@@ -69,7 +69,7 @@
         <ImageView
             android:layout_width="150dp"
             android:layout_height="100dp"
-            android:src="@drawable/pork" />
+            android:src="@drawable/lotion" />
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
@@ -79,71 +79,29 @@
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:layout_weight="1"
-                android:text="เนื้อหมู"
+                android:text="Johnson body lotion"
                 android:gravity="center"/>
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:layout_weight="1"
-                android:text="500 กรัม"
+                android:text="1 ขวด"
                 android:gravity="center"/>
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:layout_weight="1"
-                android:text="ทุกเสัปดาห์"
+                android:text="ทุกเเดือน"
                 android:gravity="center"/>
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:layout_weight="1"
-                android:text="เริ่มส่ง 19/1/2016"
+                android:text="เริ่มส่ง 19/1/2017"
                 android:gravity="center"/>
         </LinearLayout>
     </LinearLayout>
-    <LinearLayout
-        android:layout_width="fill_parent"
-        android:layout_height="match_parent"
-        android:background="#FFF"
-        android:orientation="horizontal"
-        android:layout_margin="6dp"
-        android:layout_weight="1"
-        >
-        <ImageView
-            android:layout_width="150dp"
-            android:layout_height="100dp"
-            android:src="@drawable/bagal" />
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:background="#87CEEB"
-            android:orientation="vertical">
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="0dp"
-                android:layout_weight="1"
-                android:text="โดนัท"
-                android:gravity="center"/>
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="0dp"
-                android:layout_weight="1"
-                android:text="1 ชิ้น"
-                android:gravity="center"/>
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="0dp"
-                android:layout_weight="1"
-                android:text="ทุกเวัน"
-                android:gravity="center"/>
-            <TextView
-                android:layout_width="match_parent"
-                android:layout_height="0dp"
-                android:layout_weight="1"
-                android:text="เริ่มส่ง 16/1/2016"
-                android:gravity="center"/>
-        </LinearLayout>
-    </LinearLayout>
+
     <LinearLayout
         android:layout_width="fill_parent"
         android:layout_height="match_parent"
@@ -183,7 +141,50 @@
                 android:layout_width="match_parent"
                 android:layout_height="0dp"
                 android:layout_weight="1"
-                android:text="เริ่มส่ง 1/2/2016"
+                android:text="เริ่มส่ง 1/2/2017"
+                android:gravity="center"/>
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:background="#FFF"
+        android:orientation="horizontal"
+        android:layout_margin="6dp"
+        android:layout_weight="1"
+        >
+        <ImageView
+            android:layout_width="150dp"
+            android:layout_height="100dp"
+            android:src="@drawable/hiq" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#87CEEB"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:text="HiQ super glod"
+                android:gravity="center"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:text="1 กล่อง"
+                android:gravity="center"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:text="ทุกสัปดาห์"
+                android:gravity="center"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:text="เริ่มส่ง 30/3/2017"
                 android:gravity="center"/>
         </LinearLayout>
     </LinearLayout>

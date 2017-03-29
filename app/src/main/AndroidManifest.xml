@@ -19,7 +19,9 @@
         </activity>
         <activity android:name=".FreshActivity" />
         <activity android:name=".EggSubActivity" />
-        <activity android:name=".BoxActivity"></activity>
+        <activity android:name=".BoxActivity" />
+        <activity android:name=".ChildActivity" />
+        <activity android:name=".HiQActivity"></activity>
     </application>
 
 </manifest>
